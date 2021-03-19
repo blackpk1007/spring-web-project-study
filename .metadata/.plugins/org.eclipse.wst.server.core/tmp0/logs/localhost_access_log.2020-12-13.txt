@@ -1,0 +1,11 @@
+127.0.0.1 - - [13/Dec/2020:01:17:21 +0900] "GET / HTTP/1.1" 200 165
+0:0:0:0:0:0:0:1 - - [13/Dec/2020:01:17:22 +0900] "GET /WEB-INF/views/board/get.jsp HTTP/1.1" 404 721
+0:0:0:0:0:0:0:1 - - [13/Dec/2020:01:17:33 +0900] "GET /resources/vender/datatables/dataTables.bootstrap4.min.css HTTP/1.1" 404 721
+0:0:0:0:0:0:0:1 - - [13/Dec/2020:01:17:33 +0900] "GET /resources/vender/fontawesome-free//resources/css/all.min.css HTTP/1.1" 404 721
+0:0:0:0:0:0:0:1 - - [13/Dec/2020:01:17:33 +0900] "GET /board/list HTTP/1.1" 200 28943
+0:0:0:0:0:0:0:1 - - [13/Dec/2020:01:17:34 +0900] "GET /favicon.ico HTTP/1.1" 404 721
+0:0:0:0:0:0:0:1 - - [13/Dec/2020:01:17:37 +0900] "GET /board/get?pageNum=1&amount=10&type=&keyword=&bno=2785374 HTTP/1.1" 200 21904
+0:0:0:0:0:0:0:1 - - [13/Dec/2020:01:17:38 +0900] "GET /resources/js/reply.js HTTP/1.1" 200 1241
+0:0:0:0:0:0:0:1 - - [13/Dec/2020:01:17:38 +0900] "DELETE /replies/20 HTTP/1.1" 200 7
+0:0:0:0:0:0:0:1 - - [13/Dec/2020:01:17:38 +0900] "GET /replies/pages/2785374/1.json HTTP/1.1" 200 1163
+0:0:0:0:0:0:0:1 - - [13/Dec/2020:01:17:38 +0900] "POST /replies/new HTTP/1.1" 200 7

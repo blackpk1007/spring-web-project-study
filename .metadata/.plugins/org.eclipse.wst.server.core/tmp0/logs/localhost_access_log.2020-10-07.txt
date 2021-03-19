@@ -1,0 +1,2 @@
+127.0.0.1 - - [07/Oct/2020:00:42:30 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [07/Oct/2020:00:42:30 +0900] "GET /controller/WEB-INF/views/board/list.jsp HTTP/1.1" 404 847

@@ -1,0 +1,9 @@
+package org.zerock.service;
+
+public interface BoardService {
+	
+	public void main();
+	
+	public void top();
+	
+}

@@ -1,0 +1,13 @@
+127.0.0.1 - - [02/Dec/2020:21:41:18 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [02/Dec/2020:21:41:19 +0900] "GET /ex03/WEB-INF/classes/org/zerock/controller/SampleController.java HTTP/1.1" 404 721
+0:0:0:0:0:0:0:1 - - [02/Dec/2020:21:41:35 +0900] "GET /ex03/sample/getMap HTTP/1.1" 200 113
+0:0:0:0:0:0:0:1 - - [02/Dec/2020:21:41:36 +0900] "GET /ex03/sample/getMap HTTP/1.1" 200 113
+0:0:0:0:0:0:0:1 - - [02/Dec/2020:21:41:45 +0900] "GET /ex03/sample/getMap HTTP/1.1" 200 113
+0:0:0:0:0:0:0:1 - - [02/Dec/2020:21:41:45 +0900] "GET /ex03/sample/getMap HTTP/1.1" 200 113
+0:0:0:0:0:0:0:1 - - [02/Dec/2020:21:41:58 +0900] "GET /ex03/sample/getMap HTTP/1.1" 200 113
+0:0:0:0:0:0:0:1 - - [02/Dec/2020:21:41:59 +0900] "GET /favicon.ico HTTP/1.1" 404 818
+0:0:0:0:0:0:0:1 - - [02/Dec/2020:21:42:05 +0900] "GET /ex03/sample/getMap.json HTTP/1.1" 200 79
+0:0:0:0:0:0:0:1 - - [02/Dec/2020:21:55:50 +0900] "GET /ex03/sample/check HTTP/1.1" 400 954
+0:0:0:0:0:0:0:1 - - [02/Dec/2020:21:56:19 +0900] "GET /ex03/sample/check.json?height=140&weight=50 HTTP/1.1" 502 58
+0:0:0:0:0:0:0:1 - - [02/Dec/2020:21:56:34 +0900] "GET /ex03/sample/check.json?height=140&weight=50 HTTP/1.1" 502 58
+0:0:0:0:0:0:0:1 - - [02/Dec/2020:22:10:41 +0900] "GET /ex03/sample/product/aaaa/3332 HTTP/1.1" 200 87

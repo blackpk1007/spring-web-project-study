@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 3 elements from project &apos;jex02&apos;&#x0D;&#x0A;- Original project: &apos;jex02&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     servlet-context.xml&#x0D;&#x0A;     root-context.xml&#x0D;&#x0A;     web.xml" description="Delete elements" element1="src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml" element2="src/main/webapp/WEB-INF/web.xml" element3="src/main/webapp/WEB-INF/spring/root-context.xml" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="3" stamp="1599672420747" subPackages="false" version="1.0"/>
+</session>

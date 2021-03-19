@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;views&apos;&#x0D;&#x0A;- Original project: &apos;ex05&apos;&#x0D;&#x0A;- Destination element: &apos;views&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     uploadForm.jsp&#x0D;&#x0A;     uploadAjax.jsp" description="Copy files" element1="src/main/webapp/WEB-INF/views/uploadForm.jsp" element2="src/main/webapp/WEB-INF/views/uploadAjax.jsp" files="2" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1614517882646" target="/ex03/src/main/webapp/WEB-INF/views" units="0" version="1.0"/>
+</session>

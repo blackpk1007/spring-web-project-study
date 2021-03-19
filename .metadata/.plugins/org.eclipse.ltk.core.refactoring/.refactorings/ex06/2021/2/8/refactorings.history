@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;org.zerock.mapper.MamberMapper&apos; to &apos;MemberMapper&apos;&#x0D;&#x0A;- Original project: &apos;ex06&apos;&#x0D;&#x0A;- Original element: &apos;org.zerock.mapper.MamberMapper&apos;&#x0D;&#x0A;- Renamed element: &apos;org.zerock.mapper.MemberMapper&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;MamberMapper&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;org.zerock.mapper{MamberMapper.java[MamberMapper" matchStrategy="1" name="MemberMapper" qualified="false" references="true" similarDeclarations="false" stamp="1613739591545" textual="false" version="1.0"/>
+</session>
